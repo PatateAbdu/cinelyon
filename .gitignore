@@ -1,3 +1,23 @@
-.DS_Store
-.venv
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# Variables d'environnement
+.env
+
+# Cache Python
 __pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
